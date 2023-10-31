@@ -3,7 +3,7 @@ include_once __DIR__ . '/bootstrap.php';
 	
 echo "Updating browser ids...\n";
 
-$ids = json_decode(file_get_contents("https://api.whichbrowser.net/resources/browser-ids.json"));
+$ids = json_decode(file_get_contents("https://raw.githubusercontent.com/SHControlNet/AgentParser/main/dev/browser-ids.json"));
 
 $result  = "";
 $result .= "<?php\n";
