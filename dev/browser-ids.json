@@ -1,0 +1,1262 @@
+[
+    {
+        "browserId": "com.agilebits.onepassword",
+        "browserName": "1Password"
+    },
+    {
+        "browserId": "com.browser2345",
+        "browserName": "2345 Browser"
+    },
+    {
+        "browserId": "com.browser2345_ucc",
+        "browserName": "2345 Browser"
+    },
+    {
+        "browserId": "com.browser2345hd",
+        "browserName": "2345 Browser HD"
+    },
+    {
+        "browserId": "air.stage.web.view",
+        "browserName": "Adobe AIR"
+    },
+    {
+        "browserId": "air.stagewebview",
+        "browserName": "Adobe AIR"
+    },
+    {
+        "browserId": "air.StageWebViewBridgeTest.debug",
+        "browserName": "Adobe AIR"
+    },
+    {
+        "browserId": "air.StageWebViewVideo.debug",
+        "browserName": "Adobe AIR"
+    },
+    {
+        "browserId": "com.adobe.phonegap.app",
+        "browserName": "Adobe Phonegap"
+    },
+    {
+        "browserId": "com.adobe.reader",
+        "browserName": "Adobe Reader"
+    },
+    {
+        "browserId": "com.adobe.shadow.android",
+        "browserName": "Adobe Shadow"
+    },
+    {
+        "browserId": "com.airwatch.browser",
+        "browserName": "AirWatch Browser"
+    },
+    {
+        "browserId": "com.aliyun.mobile.browser",
+        "browserName": "Aliyun Browser"
+    },
+    {
+        "browserId": "net.adgjm.angel",
+        "browserName": "Angel Browser"
+    },
+    {
+        "browserId": "com.apc.browser",
+        "browserName": "APC"
+    },
+    {
+        "browserId": "com.apc.browser.standard",
+        "browserName": "APC"
+    },
+    {
+        "browserId": "com.apc.browser.standard6j8s",
+        "browserName": "APC"
+    },
+    {
+        "browserId": "com.apusapps.browser",
+        "browserName": "APUS Browser"
+    },
+    {
+        "browserId": "com.apusapps.browser.lark",
+        "browserName": "APUS Browser"
+    },
+    {
+        "browserId": "com.apusapps.browser.turbo",
+        "browserName": "APUS Browser"
+    },
+    {
+        "browserId": "com.asus.browser",
+        "browserName": "Asus Browser"
+    },
+    {
+        "browserId": "com.wAuroraWebBrowser",
+        "browserName": "Aurora Web Browser"
+    },
+    {
+        "browserId": "bdmobile.android.app",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.blink.testapp",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.blink.v38",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.apps",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.apps.lite",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.apps_mr",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.apps_neo",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.apps_sj",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.apps_yt",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.app_bw",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.blink.apps",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.brower",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.chrome",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.inter",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.inter.mini",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.interyb",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.lab",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browser.pad",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.browserhd.inter",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.demo.webview",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.hi",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox.pad",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_bbk",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_coolpad",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_gionee",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_hisense",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_htc",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_huawei",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_ktouch",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_lenovo",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_oppo",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_samsung",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_sj",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_sony",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_tianyi",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.searchbox_zte",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.baidu.zeustest",
+        "browserName": "Baidu Browser"
+    },
+    {
+        "browserId": "com.wBestBrowser",
+        "browserName": "Best Browser"
+    },
+    {
+        "browserId": "com.boatbrowser.free",
+        "browserName": "Boat Browser"
+    },
+    {
+        "browserId": "com.boatbrowser.tablet",
+        "browserName": "Boat Browser"
+    },
+    {
+        "browserId": "com.boatgo.browser",
+        "browserName": "Boat Browser Mini"
+    },
+    {
+        "browserId": "com.ericsson.research.mario",
+        "browserName": "Bowser"
+    },
+    {
+        "browserId": "com.dotsandlines.carbon",
+        "browserName": "Carbon"
+    },
+    {
+        "browserId": "app.chameleon_browser",
+        "browserName": "Chameleon browser"
+    },
+    {
+        "browserId": "com.coship.mmcp",
+        "browserName": "Coship MMCP"
+    },
+    {
+        "browserId": "com.coship.tvos.web",
+        "browserName": "Coship MMCP"
+    },
+    {
+        "browserId": "com.coship.webapp",
+        "browserName": "Coship MMCP"
+    },
+    {
+        "browserId": "net.daum.android.daum",
+        "browserName": "Daum"
+    },
+    {
+        "browserId": "com.phikod.deviceportinfo",
+        "browserName": "Device Info Android"
+    },
+    {
+        "browserId": "com.dolphin.browser.android.jp",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "com.dolphin.browser.id",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "com.dolphin.browser.pad",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "com.dolphin.browser.tuna",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "com.dolphin.web.browser.android",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "mobi.mgeek.TunnyBrowser",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "mobile.mgeek.TunnyBrowser",
+        "browserName": "Dolphin"
+    },
+    {
+        "browserId": "com.dolphin.browser.xf",
+        "browserName": "Dolphin (Fighter Edition)"
+    },
+    {
+        "browserId": "com.dolphin.browser.lab.cn",
+        "browserName": "Dolphin Beta"
+    },
+    {
+        "browserId": "com.dolphin.browser.lab.en",
+        "browserName": "Dolphin Beta"
+    },
+    {
+        "browserId": "com.dolphin.browser.express.web",
+        "browserName": "Dolphin Express"
+    },
+    {
+        "browserId": "com.dolphin.browser.express.web.beta",
+        "browserName": "Dolphin Express"
+    },
+    {
+        "browserId": "com.dolphin.browser",
+        "browserName": "Dolphin Mini"
+    },
+    {
+        "browserId": "com.dolphin.browser.cn",
+        "browserName": "Dolphin Mini"
+    },
+    {
+        "browserId": "com.dolphin.browser.zero",
+        "browserName": "Dolphin Zero"
+    },
+    {
+        "browserId": "com.duckduckgo.mobile.android",
+        "browserName": "DuckDuckGo"
+    },
+    {
+        "browserId": "easy.browser",
+        "browserName": "Easy Browser"
+    },
+    {
+        "browserId": "easy.browser.classic",
+        "browserName": "Easy Browser"
+    },
+    {
+        "browserId": "easy.browser.com",
+        "browserName": "Easy Browser"
+    },
+    {
+        "browserId": "it.blogspot.fedeveloper",
+        "browserName": "Emergency Browser"
+    },
+    {
+        "browserId": "com.easy.browser",
+        "browserName": "ES Browser"
+    },
+    {
+        "browserId": "org.espier.browser",
+        "browserName": "Espier Browser"
+    },
+    {
+        "browserId": "com.exsoul",
+        "browserName": "Exsoul Web Browser"
+    },
+    {
+        "browserId": "com.jv.falcon",
+        "browserName": "Falcon"
+    },
+    {
+        "browserId": "com.jv.falcon.pro",
+        "browserName": "Falcon Pro"
+    },
+    {
+        "browserId": "com.devhd.feedly",
+        "browserName": "Feedly"
+    },
+    {
+        "browserId": "com.firemonkeybrowser",
+        "browserName": "FireMonkey"
+    },
+    {
+        "browserId": "com.comespice.browser",
+        "browserName": "Flash Browser"
+    },
+    {
+        "browserId": "com.funnyeden.browser",
+        "browserName": "Flash Browser"
+    },
+    {
+        "browserId": "com.whattheapps.fbrowser",
+        "browserName": "Flash Browser"
+    },
+    {
+        "browserId": "flipboard.app",
+        "browserName": "Flipboard"
+    },
+    {
+        "browserId": "flipboard.cn",
+        "browserName": "Flipboard"
+    },
+    {
+        "browserId": "com.lwi.android.flapps",
+        "browserName": "Floating Apps"
+    },
+    {
+        "browserId": "com.lwi.android.flappsfull",
+        "browserName": "Floating Apps"
+    },
+    {
+        "browserId": "gpc.myweb.hinet.net.PopupWeb",
+        "browserName": "Floating Browser Flux"
+    },
+    {
+        "browserId": "com.fortune.browser",
+        "browserName": "Fortune Web Browser"
+    },
+    {
+        "browserId": "com.browser.frogbrowser",
+        "browserName": "Frog Browser"
+    },
+    {
+        "browserId": "com.crowbar.beaverbrowser",
+        "browserName": "Frost Browser"
+    },
+    {
+        "browserId": "com.crowbar.beaverlite",
+        "browserName": "Frost Browser"
+    },
+    {
+        "browserId": "galaxy.browser.gb.free",
+        "browserName": "Galaxy Browser"
+    },
+    {
+        "browserId": "galaxy.browser.gb.pro",
+        "browserName": "Galaxy Browser"
+    },
+    {
+        "browserId": "com.mybro.browsah",
+        "browserName": "Genie Browser"
+    },
+    {
+        "browserId": "com.noinnion.android.greader.reader",
+        "browserName": "gReader"
+    },
+    {
+        "browserId": "com.noinnion.android.greader.readerpro",
+        "browserName": "gReader Pro"
+    },
+    {
+        "browserId": "jp.ddo.pigsty.HabitBrowser",
+        "browserName": "Habit Browser"
+    },
+    {
+        "browserId": "jp.ddo.pigsty.Habit_Browser",
+        "browserName": "Habit Browser"
+    },
+    {
+        "browserId": "com.baidu.hao123",
+        "browserName": "Hao123"
+    },
+    {
+        "browserId": "com.baidu.hao123.chrome.browser",
+        "browserName": "Hao123"
+    },
+    {
+        "browserId": "com.baidu.hao123.global",
+        "browserName": "Hao123"
+    },
+    {
+        "browserId": "com.htc.browser",
+        "browserName": "HTC Sense Browser"
+    },
+    {
+        "browserId": "com.htc.sense.browser",
+        "browserName": "HTC Sense Browser"
+    },
+    {
+        "browserId": "com.huawei.android.browser",
+        "browserName": "Huawei Emotion Browser"
+    },
+    {
+        "browserId": "com.huawei.browser",
+        "browserName": "Huawei Emotion Browser"
+    },
+    {
+        "browserId": "jp.co.lunascape.android.ilunascape",
+        "browserName": "iLunascape 2"
+    },
+    {
+        "browserId": "nu.tommie.inbrowser",
+        "browserName": "InBrowser"
+    },
+    {
+        "browserId": "nu.tommie.inbrowser.beta",
+        "browserName": "InBrowser Beta"
+    },
+    {
+        "browserId": "com.infamous.browser",
+        "browserName": "Infamous Browser"
+    },
+    {
+        "browserId": "derek.iSurf",
+        "browserName": "iSurf"
+    },
+    {
+        "browserId": "com.jerky.browser",
+        "browserName": "Javelin Incognito Browser"
+    },
+    {
+        "browserId": "com.jerky.browser2",
+        "browserName": "Javelin Incognito Browser"
+    },
+    {
+        "browserId": "com.adsi.kioware.client.mobile.app",
+        "browserName": "KioWare Kiosk"
+    },
+    {
+        "browserId": "com.kroniapp.browse",
+        "browserName": "Kronia Browser"
+    },
+    {
+        "browserId": "com.web.browser.labaadibrowser",
+        "browserName": "Labaadi Browser"
+    },
+    {
+        "browserId": "com.vng.android.zingbrowser",
+        "browserName": "Laban"
+    },
+    {
+        "browserId": "com.lastpass.lpandroid",
+        "browserName": "LastPass"
+    },
+    {
+        "browserId": "com.lenovo.browser",
+        "browserName": "Lenovo Browser"
+    },
+    {
+        "browserId": "com.lenovo.lps.simple",
+        "browserName": "Lenovo Browser"
+    },
+    {
+        "browserId": "com.light.browser",
+        "browserName": "Light Browser"
+    },
+    {
+        "browserId": "acr.browser.barebones",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.butterfly",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.lightning",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.lightning2",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.lightningq16w",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.spartancompany",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.spartancompanypaid",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "acr.browser.thunder",
+        "browserName": "Lightning Browser"
+    },
+    {
+        "browserId": "com.MoNTE.Lime",
+        "browserName": "Lime"
+    },
+    {
+        "browserId": "com.alphonso.pulse",
+        "browserName": "LinkedIn Pulse"
+    },
+    {
+        "browserId": "com.logio.logos",
+        "browserName": "Logos Browser"
+    },
+    {
+        "browserId": "it.lombardo.Lombardo",
+        "browserName": "Lombardo"
+    },
+    {
+        "browserId": "com.powerpoint45.lucidbrowser",
+        "browserName": "Lucid Browser"
+    },
+    {
+        "browserId": "com.powerpoint45.lucidbrowserfree",
+        "browserName": "Lucid Browser"
+    },
+    {
+        "browserId": "com.fiberlink.maas360.android.securebrowser",
+        "browserName": "MaaS360 Browser"
+    },
+    {
+        "browserId": "com.mx.browser",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.appendix",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.fast",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000000000",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000001915",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000002422",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000003135",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000003415",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000004211",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000004981",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx100000005137",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx200000000239",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx200000006760",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx200000013070",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx200000014602",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.free.mx200000014853",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.hg",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.kids",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.mtk",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "com.mx.browser.tablet",
+        "browserName": "Maxthon"
+    },
+    {
+        "browserId": "jp.co.inos.c1Browser",
+        "browserName": "MDM Browser"
+    },
+    {
+        "browserId": "com.ilegendsoft.mercury",
+        "browserName": "Mercury"
+    },
+    {
+        "browserId": "com.dmkho.mbm",
+        "browserName": "MiniBrowser Mobile"
+    },
+    {
+        "browserId": "com.dmkho.mbmbeta",
+        "browserName": "MiniBrowser Mobile"
+    },
+    {
+        "browserId": "com.mseven.msecure",
+        "browserName": "mSecure"
+    },
+    {
+        "browserId": "com.visvanoid.secretbrowse",
+        "browserName": "My Internet"
+    },
+    {
+        "browserId": "com.fevdev.nakedbrowser",
+        "browserName": "Naked Browser"
+    },
+    {
+        "browserId": "com.fevdev.nakedbrowserNDM",
+        "browserName": "Naked Browser"
+    },
+    {
+        "browserId": "com.fevdev.nakedbrowserpro",
+        "browserName": "Naked Browser Pro"
+    },
+    {
+        "browserId": "com.nanobrowser",
+        "browserName": "Nano Browser"
+    },
+    {
+        "browserId": "com.bos.ebrowser",
+        "browserName": "Navegador eBrowser"
+    },
+    {
+        "browserId": "com.nhn.android.navercafe",
+        "browserName": "Naver"
+    },
+    {
+        "browserId": "com.nhn.android.naverdic",
+        "browserName": "Naver"
+    },
+    {
+        "browserId": "com.nhn.android.search",
+        "browserName": "Naver"
+    },
+    {
+        "browserId": "com.access_company.android.livebrowser",
+        "browserName": "NetFront Life Browser"
+    },
+    {
+        "browserId": "com.access_company.android.nflifebrowser.lite",
+        "browserName": "NetFront Life Browser"
+    },
+    {
+        "browserId": "com.access_company.android.nflifeconnect",
+        "browserName": "NetFront Life Connect"
+    },
+    {
+        "browserId": "com.jiubang.browser",
+        "browserName": "Next Browser"
+    },
+    {
+        "browserId": "com.ninesky.browser",
+        "browserName": "Ninesky"
+    },
+    {
+        "browserId": "com.ninesky.browsercn",
+        "browserName": "Ninesky"
+    },
+    {
+        "browserId": "com.ninesky.browserzh",
+        "browserName": "Ninesky"
+    },
+    {
+        "browserId": "com.ninesky.nqbrowsercn",
+        "browserName": "Ninesky"
+    },
+    {
+        "browserId": "com.ninesky.nsbrowser",
+        "browserName": "Ninesky"
+    },
+    {
+        "browserId": "com.ninesky.sebrowser",
+        "browserName": "Ninesky"
+    },
+    {
+        "browserId": "com.appsverse.privatebrowser",
+        "browserName": "Nova Private Browser"
+    },
+    {
+        "browserId": "com.browser.nowadvanced",
+        "browserName": "Now Browser"
+    },
+    {
+        "browserId": "com.browser.nowbasic",
+        "browserName": "Now Browser"
+    },
+    {
+        "browserId": "com.browser.nowpro",
+        "browserName": "Now Browser"
+    },
+    {
+        "browserId": "com.browser.nowpro412t",
+        "browserName": "Now Browser"
+    },
+    {
+        "browserId": "com.wNewVisionBrowser",
+        "browserName": "NVision Browser"
+    },
+    {
+        "browserId": "com.compal.android.browser",
+        "browserName": "Ocean Browser"
+    },
+    {
+        "browserId": "com.maskyn.oldbrowser",
+        "browserName": "Old But Gold Internet Browser"
+    },
+    {
+        "browserId": "com.tencent.ibibo.mtt",
+        "browserName": "One Browser"
+    },
+    {
+        "browserId": "info.guardianproject.browser",
+        "browserName": "Orweb"
+    },
+    {
+        "browserId": "com.oupeng.browser",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.oupeng.browser.beta10",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.oupeng.browser.turbobeta",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.oupeng.browserpre.cmcc",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.oupeng.mini.android",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.oupeng.xbrowser",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.oupeng.xbrowser.beta",
+        "browserName": "Oupeng Browser"
+    },
+    {
+        "browserId": "com.myboyfriendisageek.airbrowser",
+        "browserName": "OverSkreen"
+    },
+    {
+        "browserId": "com.panasonic.pavc.viera.vieraremote2",
+        "browserName": "Panasonic TV Remote"
+    },
+    {
+        "browserId": "com.wPcBrowser",
+        "browserName": "PC Browser Mini"
+    },
+    {
+        "browserId": "com.penguinbrowser.penguinbrowser",
+        "browserName": "Penguin browser"
+    },
+    {
+        "browserId": "com.appsverse.photon",
+        "browserName": "Photon Browser"
+    },
+    {
+        "browserId": "com.appsverse.photonamazon",
+        "browserName": "Photon Browser"
+    },
+    {
+        "browserId": "com.levelup.touiteur",
+        "browserName": "Plume"
+    },
+    {
+        "browserId": "com.ideashower.readitlater.pro",
+        "browserName": "Pocket"
+    },
+    {
+        "browserId": "com.gflam.portal",
+        "browserName": "Portal"
+    },
+    {
+        "browserId": "com.hat.privatebrowser",
+        "browserName": "Private Browser"
+    },
+    {
+        "browserId": "com.JamesBecwar.FreePrivateBrowser",
+        "browserName": "Private Browser"
+    },
+    {
+        "browserId": "com.JamesBecwar.PrivateBrowser",
+        "browserName": "Private Browser"
+    },
+    {
+        "browserId": "com.qihoa.browser",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.androidbrowser",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.appstore",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.browser",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.browsertest",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.express.browser",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.expressbrowser",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.haosou",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.padbrowser",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo.padbrowser7",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo360.mobilesafe",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo360.mobilesafe_meizu",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.qihoo360.mobilesafe_mtk6573",
+        "browserName": "Qihoo 360 Browser"
+    },
+    {
+        "browserId": "com.tencent.android.pad",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.blink",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.hd.qq",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.internat.mtt",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.international.mtt",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.mobileqq",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.mtt",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "com.tencent.padbrowser",
+        "browserName": "QQ Browser"
+    },
+    {
+        "browserId": "appinventor.ai_progetto2003.SCAN",
+        "browserName": "QR Barcode Scanner"
+    },
+    {
+        "browserId": "com.rarster.QuantumBrowser",
+        "browserName": "QuantumBrowser"
+    },
+    {
+        "browserId": "net.virifi.android.quickbrowser",
+        "browserName": "Quick ICS Browser"
+    },
+    {
+        "browserId": "net.virifi.android.quickbrowserpro",
+        "browserName": "Quick ICS Browser"
+    },
+    {
+        "browserId": "com.bjy.quicklinkbrowser",
+        "browserName": "Quick Link Browser"
+    },
+    {
+        "browserId": "com.rapid.browser",
+        "browserName": "Rapid Browser Pro"
+    },
+    {
+        "browserId": "com.rapid.browser2",
+        "browserName": "Rapid Browser Pro"
+    },
+    {
+        "browserId": "com.andrewshu.android.reddit",
+        "browserName": "Reddit is fun"
+    },
+    {
+        "browserId": "com.andrewshu.android.redditdonation",
+        "browserName": "Reddit is fun"
+    },
+    {
+        "browserId": "reddit.news",
+        "browserName": "Reddit News"
+    },
+    {
+        "browserId": "com.laurencedawson.reddit_sync.dev",
+        "browserName": "Reddit Sync Dev"
+    },
+    {
+        "browserId": "com.laurencedawson.reddit_sync.pro",
+        "browserName": "Reddit Sync Pro"
+    },
+    {
+        "browserId": "org.quantumbadger.redreader",
+        "browserName": "RedReader"
+    },
+    {
+        "browserId": "de.bomhard.android.RetroBrowser",
+        "browserName": "RetroBrowser"
+    },
+    {
+        "browserId": "com.rocket.browser",
+        "browserName": "Rocket Browser"
+    },
+    {
+        "browserId": "com.springdesign.screenshare.browser.client",
+        "browserName": "ScreenShare"
+    },
+    {
+        "browserId": "com.springdesign.screenshare.browser.server",
+        "browserName": "ScreenShare"
+    },
+    {
+        "browserId": "com.shark.sharkbrowser",
+        "browserName": "Shark Browser"
+    },
+    {
+        "browserId": "com.sina.weibo",
+        "browserName": "Sina Weibo"
+    },
+    {
+        "browserId": "com.sina.weibog3",
+        "browserName": "Sina Weibo"
+    },
+    {
+        "browserId": "com.sithagi.sithbrowser",
+        "browserName": "Sith Browser"
+    },
+    {
+        "browserId": "com.skyfire.browser",
+        "browserName": "SkyFire"
+    },
+    {
+        "browserId": "com.skyfire.browser.toolbar",
+        "browserName": "SkyFire"
+    },
+    {
+        "browserId": "com.skyfire.consumer.browser",
+        "browserName": "Skyfire"
+    },
+    {
+        "browserId": "jp.co.fenrir.android.sleipnir",
+        "browserName": "Sleipnir"
+    },
+    {
+        "browserId": "jp.co.fenrir.android.sleipnir_black",
+        "browserName": "Sleipnir"
+    },
+    {
+        "browserId": "jp.co.fenrir.android.sleipnir_ngp",
+        "browserName": "Sleipnir"
+    },
+    {
+        "browserId": "jp.co.fenrir.android.sleipnir_test",
+        "browserName": "Sleipnir"
+    },
+    {
+        "browserId": "jp.gocro.smartnews.android",
+        "browserName": "SmartNews"
+    },
+    {
+        "browserId": "com.cmcc.sofabrowser",
+        "browserName": "Sofa Browser"
+    },
+    {
+        "browserId": "sogou.mobile.explorer",
+        "browserName": "Sogou Mobile"
+    },
+    {
+        "browserId": "com.solo.browser",
+        "browserName": "Solo"
+    },
+    {
+        "browserId": "com.sonymobile.smallbrowser",
+        "browserName": "Sony Small Browser"
+    },
+    {
+        "browserId": "com.speedy.browser",
+        "browserName": "Speedy Browser"
+    },
+    {
+        "browserId": "com.appestry.split_browser",
+        "browserName": "Split Browser"
+    },
+    {
+        "browserId": "com.appestry.split_browser_trial",
+        "browserName": "Split Browser"
+    },
+    {
+        "browserId": "com.stumbleupon.android.app",
+        "browserName": "StumbleUpon"
+    },
+    {
+        "browserId": "iron.web.jalepano.browser",
+        "browserName": "Super Fast Browser"
+    },
+    {
+        "browserId": "com.gears42.surefox",
+        "browserName": "SureFox"
+    },
+    {
+        "browserId": "com.mns.android.swing",
+        "browserName": "Swing Browser"
+    },
+    {
+        "browserId": "net.biniok.tampermonkey",
+        "browserName": "Tampermonkey"
+    },
+    {
+        "browserId": "com.tcl.browser",
+        "browserName": "TCL Browser"
+    },
+    {
+        "browserId": "com.thuban.browser",
+        "browserName": "Thuban Handset Browser"
+    },
+    {
+        "browserId": "org.tint",
+        "browserName": "Tint Browser"
+    },
+    {
+        "browserId": "com.twidroid",
+        "browserName": "UberSocial"
+    },
+    {
+        "browserId": "com.uc.browser",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.uc.browser.en2ly5",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.uc.browser.hd.x86",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.uc.browser.hdx3kg",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobile",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobile.labs",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobile.ucsdk",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobile295d",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobile2jm4",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobile9jpo",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.UCMobileodw6",
+        "browserName": "UC Browser"
+    },
+    {
+        "browserId": "com.uc.browser.hd",
+        "browserName": "UC Browser HD"
+    },
+    {
+        "browserId": "com.uc.browser.en",
+        "browserName": "UC Browser Mini"
+    },
+    {
+        "browserId": "com.tencent.mm",
+        "browserName": "WeChat"
+    },
+    {
+        "browserId": "sui.mRelease",
+        "browserName": "xScope Browser Pro"
+    },
+    {
+        "browserId": "jp.co.yahoo.android.ybrowser",
+        "browserName": "Yahoo! JAPAN"
+    },
+    {
+        "browserId": "jp.co.yahoo.android.yjtop",
+        "browserName": "Yahoo! JAPAN"
+    },
+    {
+        "browserId": "ru.yandex.shell",
+        "browserName": "Yandex Shell"
+    },
+    {
+        "browserId": "com.zetakey.browser",
+        "browserName": "Zetakey"
+    },
+    {
+        "browserId": "org.zirco",
+        "browserName": "Zirco Browser"
+    },
+    {
+        "browserId": "com.zte.browser",
+        "browserName": "ZTE Browser"
+    }
+]
