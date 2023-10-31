@@ -4,7 +4,7 @@
 	
 	echo "Downloading...";
 
-	$profiles = json_decode(file_get_contents("https://api.whichbrowser.net/resources/profiles.json"));
+	$profiles = json_decode(file_get_contents("https://raw.githubusercontent.com/SHControlNet/AgentParser/main/dev/profiles.json"));
 
 	$total = count($profiles);
 
